@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\Domashka01102022\Task6\obj\Debug\net6.0\ref\Task6.dll
