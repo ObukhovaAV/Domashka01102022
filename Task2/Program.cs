@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите число от 1 до 7");
+﻿Console.WriteLine("Введите число");
 int x = int.Parse(Console.ReadLine());
 int a = 1;
 int b = 2;
@@ -14,36 +14,39 @@ if (x==a)
     Console.WriteLine("Monday");
 } 
 
-if (x==b)
+else if (x==b)
 {
     Console.WriteLine("Tuesday");
 } 
 
-if (x==c)
+else if (x==c)
 {
     Console.WriteLine("Wednesday");
 } 
 
-if (x==d)
+else if (x==d)
 {
     Console.WriteLine("Thersday");
 } 
 
-if (x==e)
+else if (x==e)
 {
     Console.WriteLine("Friday");
 } 
 
-if (x==f)
+else if (x==f)
 {
     Console.WriteLine("Saterday");
 } 
 
-if (x==g)
+else if (x==g)
 {
     Console.WriteLine("Sunday");
 } 
-
+else 
+{
+    Console.WriteLine("Это не день недели");
+}
 
 
     
