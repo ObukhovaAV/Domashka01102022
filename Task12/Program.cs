@@ -15,7 +15,7 @@ Console.Write(third);
 }
 else
 {
-    Console.Write("no");
+    Console.Write("В числе нет третьей цифры");
 }
    
 
