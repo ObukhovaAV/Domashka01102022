@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число");
-long number = long.Parse(Console.ReadLine() ?? "0");
+int number = int.Parse(Console.ReadLine() ?? "0");
 
 
 if (number/100>0)
@@ -8,7 +8,7 @@ if (number/100>0)
    {
     number = number/10;
    }
-   long third = number%10;
+   int third = number%10;
 
 Console.Write(third);
 }
